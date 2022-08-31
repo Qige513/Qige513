@@ -14,3 +14,8 @@ Hi.Guys.I'm from China.Nice to meet you.
 Qige513/Qige513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+ ## 语言切换 Language
+ 
+ [English](/README-en.md)
+ [繁体中文](/README-Zh-Hant.md)
