@@ -2,7 +2,7 @@
  
 Hi.Guys.I'm from China.Nice to meet you.
 
- ## Introduce My Self
+ ## Self-Introduction
  
 - 👋 Hi, I’m @Qige513
 - 👀 I’m interested in `PHP`
@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
  ## Language 多语言
  
- [中文-中国大陆](/README.md)
+ [中文-简体](/README.md)
