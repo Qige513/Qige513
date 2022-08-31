@@ -1,14 +1,14 @@
- # Qige513
+# Qige513
  
-Hi.Guys.I'm from China.Nice to meet you.
+嗨，大家好啊，我是一名来自中国自学编程的学生，很高兴认识你。
 
- ## Introduce My Self
+## 自我介绍
  
-- 👋 Hi, I’m @Qige513
-- 👀 I’m interested in `PHP`
-- 🌱 I’m currently learning `PHP`
-- 💞️ I’m looking to collaborate on my program.
-- 📫 How to reach me ? Twitter@Qige513
+- 👋 大家好，我是@Qige513
+- 👀 我对`PHP`很感兴趣
+- 🌱 我正在学习`PHP`
+- 💞️ 我希望在我的计划上进行合作。
+- 📫 如何联系我？ 推特@Qige513
 
 <!---
 Qige513/Qige513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
