@@ -15,6 +15,6 @@ Qige513/Qige513 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
- ## 語言 语言
+ ## 語言
  
  [简体中文](/README.md)
