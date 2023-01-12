@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
  ## Language 多语言
  
- [中文-简体](/README.md)
+ [Simple Chinese 简体中文](/README.md)
